@@ -36,7 +36,7 @@
     <truth.version>0.36</truth.version>
     <javac.version>9+181-r4173-1</javac.version>
     <autovalue.version>1.5.3</autovalue.version>
-    <junit.version>4.13-SNAPSHOT</junit.version>
+    <junit.version>4.13.1</junit.version>
     <dataflow.version>2.5.3</dataflow.version>
   </properties>
 
@@ -123,7 +123,7 @@
         <configuration>
           <source>1.8</source>
           <target>1.8</target>
-          <parameters />
+          <parameters/>
           <testExcludes>
             <exclude>**/testdata/**</exclude>
           </testExcludes>
